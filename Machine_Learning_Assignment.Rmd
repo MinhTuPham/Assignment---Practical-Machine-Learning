@@ -1,5 +1,5 @@
 ---
-title: "Assignment - Practical Machine Learning?"
+title: "Practical Machine Learning assignment"
 author: "Minh Tu Pham"
 output:
   html_document:
