@@ -1,5 +1,5 @@
 ---
-title: "Automatic or manual transmission? Which is better for MPG?"
+title: "Assignment - Practical Machine Learning?"
 author: "Minh Tu Pham"
 output:
   html_document:
